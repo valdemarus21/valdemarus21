@@ -4,9 +4,9 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 ## MY PERSONAL WEBSITE : https://vldmrwebportfolio.space
 ## 👩‍💻 About me
 
-*  <img width="16" src="https://img.icons8.com/?size=512&id=15538&format=png" alt="Russia"/> I'm from Ukraine, Kharkiv
+*  <img width="16" src="https://img.icons8.com/?size=512&id=15538&format=png" alt="Ukraine"/> I'm from Ukraine, Kyiv
 
-- <img  width="16"  src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png"  alt=""  /> Love Programming
+- <img  width="16"  src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png"  alt="Love programming"  /> Love Programming
 
 - 👩‍🏫 Love teaching and sharing knowledge
 
