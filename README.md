@@ -42,7 +42,7 @@
 		rel="noreferrer"
 	>
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/magento.svg"
 			alt="babel"
 			width="64"
 			height="64"
@@ -51,7 +51,7 @@
 	</a>
 	<a href="https://wordpress.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/wordpress.svg"
 			alt="babel"
 			width="64"
 			height="64"
@@ -64,7 +64,7 @@
 		rel="noreferrer"
 	>
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/js.svg"
 			alt="javascript"
 			width="64"
 			height="64"
@@ -73,7 +73,7 @@
 	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/ts.svg"
 			alt="typescript"
 			width="64"
 			height="64"
@@ -82,7 +82,7 @@
 	</a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/php.svg"
 			alt="php"
 			width="64"
 			height="64"
@@ -91,7 +91,7 @@
 	</a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/linux.svg"
 			alt="linux"
 			width="64"
 			height="64"
@@ -100,7 +100,7 @@
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/bash.svg"
 			alt="bash"
 			width="64"
 			height="64"
@@ -109,7 +109,7 @@
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/wsl.svg"
 			alt="bash"
 			width="64"
 			height="64"
@@ -118,7 +118,7 @@
 	</a>
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/babel.svg"
 			alt="babel"
 			width="64"
 			height="64"
@@ -127,7 +127,7 @@
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/css.svg"
 			alt="css3"
 			width="64"
 			height="64"
@@ -136,7 +136,7 @@
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/express.svg"
 			alt="express"
 			width="64"
 			height="64"
@@ -145,7 +145,7 @@
 	</a>
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/figma.svg"
 			alt="figma"
 			width="64"
 			height="64"
@@ -154,7 +154,7 @@
 	</a>
 	<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/framer.svg"
 			alt="framer"
 			width="64"
 			height="64"
@@ -163,7 +163,7 @@
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/github.svg"
 			alt="git"
 			width="64"
 			height="64"
@@ -172,7 +172,7 @@
 	</a>
 	<a href="https://gulpjs.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/gulp.svg"
 			alt="gulp"
 			width="64"
 			height="64"
@@ -181,7 +181,7 @@
 	</a>
 	<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/mariadb.svg"
 			alt="mariadb"
 			width="64"
 			height="64"
@@ -190,7 +190,7 @@
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/mysql.svg"
 			alt="mysql"
 			width="64"
 			height="64"
@@ -199,7 +199,7 @@
 	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/node.svg"
 			alt="nodejs"
 			width="64"
 			height="64"
@@ -208,7 +208,7 @@
 	</a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/postman.svg"
 			alt="postman"
 			width="64"
 			height="64"
@@ -217,7 +217,7 @@
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/react.svg"
 			alt="react"
 			width="64"
 			height="64"
@@ -226,7 +226,7 @@
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/nextjs.svg"
 			alt="react"
 			width="64"
 			height="64"
@@ -235,7 +235,7 @@
 	</a>
 	<a href="https://vercel.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/vercel.svg"
 			alt="react"
 			width="64"
 			height="64"
@@ -244,7 +244,7 @@
 	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/redux.svg"
 			alt="redux"
 			width="64"
 			height="64"
@@ -253,7 +253,7 @@
 	</a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/scss.svg"
 			alt="sass"
 			width="64"
 			height="64"
@@ -262,7 +262,7 @@
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/tailwind.svg"
 			alt="tailwind"
 			width="64"
 			height="64"
@@ -271,7 +271,16 @@
 	</a>
 	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.valdemarusportfolio.tech/icons/.svg"
+			src="https://www.valdemarusportfolio.tech/icons/webpack.svg"
+			alt="webpack"
+			width="64"
+			height="64"
+			style="background-color: #fff; border-radius: 10px; padding: 4px"
+		/>
+	</a>
+	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.valdemarusportfolio.tech/icons/bootstrap.svg"
 			alt="webpack"
 			width="64"
 			height="64"
