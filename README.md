@@ -2,11 +2,46 @@
 
 <br/>
 
-# Hi, my name is Vladimir (Valdemar). I am a software engineer.
+# Hi, my name is Vladimir (Valdemar). I am a software engineer from Europe.
 
 ### MY PERSONAL WEBSITE : [https://valdemarusportfolio.space/](https://valdemarusportfolio.space/)
 
 ### VISIT CARD : [https://valdemarusportfolio.space/visitcard](https://valdemarusportfolio.space/visitcard)
+---
+
+### CERTIFIED BY :
+
+<img
+			src="https://valdemarusportfolio.space/icons/hotjar.svg"
+			alt="hotjar"
+			width="48"
+			height="48"
+			style="object-fit: cover; background-color: #fff; border-radius: 10px; padding: 4px"
+/>
+<img
+			src="https://valdemarusportfolio.space/icons/mongodb.svg"
+			alt="mongodb"
+			width="48"
+			height="48"
+			style="object-fit: cover; background-color: #fff; border-radius: 10px; padding: 4px"
+/>
+<img
+			src="https://valdemarusportfolio.space/icons/efset.svg"
+			alt="efset"
+			width="48"
+			height="48"
+			style="object-fit: cover; background-color: #fff; border-radius: 10px; padding: 4px"
+		/>
+<img
+			src="https://valdemarusportfolio.space/icons/epam.svg"
+			alt="epam"
+			width="48"
+			height="48"
+			style="object-fit: cover; background-color: #fff; border-radius: 10px; padding: 4px"
+		/>
+<br/>
+
+See more about it on linkedIn : [/details/certifications/](https://www.linkedin.com/in/valdemarus21/details/certifications/)
 
 ## Briefly about me
 
